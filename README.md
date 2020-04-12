@@ -1,16 +1,16 @@
 # Text_summarization
 
-#Dataset
+## Dataset
 Amazon food reviews dataset from Kaggle.
 
-#Architechture
+## Architechture
 Encoder Decoder architecute using LSTM cells.
 Implemented Beam Search Algorithm
 Implemented Bahdanau Attention mechanism.
 Used pretranined word2Vec word embeddings.
 
 
-#DeepLearning Framework
+## DeepLearning Framework
 Tensorflow 2.0
 
 
