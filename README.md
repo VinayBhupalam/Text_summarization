@@ -4,11 +4,10 @@
 Amazon food reviews dataset from Kaggle.
 
 ## Architechture
-Encoder Decoder architecute using LSTM cells.\n
-Implemented Beam Search Algorithm
-Implemented Bahdanau Attention mechanism.
-Used pretranined word2Vec word embeddings.
-
+Encoder Decoder architecute using LSTM cells<br />
+Implemented Beam Search Algorithm<br />
+Implemented Bahdanau Attention mechanism<br />
+Used pretranined word2Vec word embeddings<br />
 
 ## DeepLearning Framework
 Tensorflow 2.0
